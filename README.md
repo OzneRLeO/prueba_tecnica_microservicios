@@ -12,7 +12,7 @@
  
 -------------
 ### Indicaciones
-- Todo los proyectos usan Spring boot 3 y Java 17
+ 
 
 
   
@@ -67,11 +67,11 @@ El proyecto  prueba-tecnica-discover-server  se ocupara de la gestion de los mic
 ####Endpoints
  De haber levantado el proyecto prueba-tecnica-gateway-servidor, se podra acceder a los microservicios mediante http://localhost:8099.
  
-http://localhost:8099/api/productos/all
-http://localhost:8099/api/productos/find/{id}
-http://localhost:8099/api/products/save 
-http://localhost:8099/api/products/delete/{id}
-http://localhost:8099/api/stock/find/{id}
+- http://localhost:8099/api/productos/all
+- http://localhost:8099/api/productos/find/{id}
+- http://localhost:8099/api/products/save 
+- http://localhost:8099/api/products/delete/{id}
+- http://localhost:8099/api/stock/find/{id}
 
  Para el endpoint save  se usa el sgte json de plantilla:
  {
@@ -81,12 +81,13 @@ http://localhost:8099/api/stock/find/{id}
 
 El servidor Eureka estara en el http://localhost:8761/eureka
 
- Caso donde se acceda a cada uno de los microservicios se usara los siguientes:
- http://localhost:8089/api/productos/all
-http://localhost:8089/api/productos/find/{id}
-http://localhost:8089/api/products/save
-http://localhost:8089/api/products/delete/{id}
-http://localhost:8088/api/stock/find/{id}
+Caso donde se acceda a cada uno de los microservicios se usara los siguientes:
+- http://localhost:8089/api/productos/all 
+- http://localhost:8089/api/productos/find/{id} 
+- http://localhost:8089/api/products/save 
+- http://localhost:8089/api/products/delete/{id} 
+- http://localhost:8088/api/stock/find/{id}
+
  
  Para el endpoint save (es un POST) se usa el sgte json de plantilla:
  {
@@ -96,4 +97,4 @@ http://localhost:8088/api/stock/find/{id}
  Para los endpoint terminando en {id} se reemplaza por numero de registro de la secciones Insertar Data (para este caso son solo 1,2 o 3).
  
 Las reglas de Drools no pude añadirlos, pero estoy aún trabajando para incluirlos. Asi mismo como adicionales validaciones 
-###End
+ 
