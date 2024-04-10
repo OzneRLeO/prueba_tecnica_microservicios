@@ -1,0 +1,12 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: prueba-tecnica-product
+        uri: lb://prueba-tecnica-product
+        predicates:
+          - Path=/api/productos/**
+      - id: prueba-tecnica-stock
+        uri: lb://prueba-tecnica-stock
+        predicates:
+          - Path=/api/stock/**
