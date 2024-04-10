@@ -1,0 +1,5 @@
+# Created at 2024-04-09T22:15:49.161
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Workspace\spring-drools-prueba-tecnica\prueba-tecnica-stock\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

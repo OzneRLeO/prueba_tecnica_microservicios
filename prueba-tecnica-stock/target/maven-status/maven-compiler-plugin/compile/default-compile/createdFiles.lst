@@ -1,0 +1,12 @@
+com\prueba\tecnica\drools\product\infrastructure\rest\controller\ProductController.class
+com\prueba\tecnica\drools\product\infrastructure\entity\StockEntity$StockEntityBuilder.class
+com\prueba\tecnica\drools\product\infrastructure\entity\StockEntity.class
+com\prueba\tecnica\drools\product\domain\model\Stock$StockBuilder.class
+com\prueba\tecnica\drools\product\infrastructure\adapter\StockRepositoryR2DBC.class
+com\prueba\tecnica\drools\product\domain\port\StockRepository.class
+com\prueba\tecnica\drools\product\application\service\StockService.class
+com\prueba\tecnica\drools\product\application\service\DomainStockService.class
+com\prueba\tecnica\drools\product\infrastructure\adapter\StockCrudRepository.class
+com\prueba\tecnica\drools\product\PruebaTecnicaStockApplication.class
+com\prueba\tecnica\drools\product\infrastructure\conf\BeanStockConfiguration.class
+com\prueba\tecnica\drools\product\domain\model\Stock.class

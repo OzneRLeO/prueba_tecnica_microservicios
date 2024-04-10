@@ -1,0 +1,10 @@
+E:\Workspace\spring-drools-prueba-tecnica\prueba-tecnica-stock\src\main\java\com\prueba\tecnica\drools\product\infrastructure\entity\StockEntity.java
+E:\Workspace\spring-drools-prueba-tecnica\prueba-tecnica-stock\src\main\java\com\prueba\tecnica\drools\product\domain\model\Stock.java
+E:\Workspace\spring-drools-prueba-tecnica\prueba-tecnica-stock\src\main\java\com\prueba\tecnica\drools\product\domain\port\StockRepository.java
+E:\Workspace\spring-drools-prueba-tecnica\prueba-tecnica-stock\src\main\java\com\prueba\tecnica\drools\product\infrastructure\adapter\StockCrudRepository.java
+E:\Workspace\spring-drools-prueba-tecnica\prueba-tecnica-stock\src\main\java\com\prueba\tecnica\drools\product\infrastructure\rest\controller\ProductController.java
+E:\Workspace\spring-drools-prueba-tecnica\prueba-tecnica-stock\src\main\java\com\prueba\tecnica\drools\product\infrastructure\adapter\StockRepositoryR2DBC.java
+E:\Workspace\spring-drools-prueba-tecnica\prueba-tecnica-stock\src\main\java\com\prueba\tecnica\drools\product\application\service\DomainStockService.java
+E:\Workspace\spring-drools-prueba-tecnica\prueba-tecnica-stock\src\main\java\com\prueba\tecnica\drools\product\application\service\StockService.java
+E:\Workspace\spring-drools-prueba-tecnica\prueba-tecnica-stock\src\main\java\com\prueba\tecnica\drools\product\infrastructure\conf\BeanStockConfiguration.java
+E:\Workspace\spring-drools-prueba-tecnica\prueba-tecnica-stock\src\main\java\com\prueba\tecnica\drools\product\PruebaTecnicaStockApplication.java
