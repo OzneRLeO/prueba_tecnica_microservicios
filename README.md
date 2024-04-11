@@ -69,8 +69,8 @@ El proyecto  prueba-tecnica-discover-server  se ocupara de la gestion de los mic
  
 - http://localhost:8099/api/productos/all
 - http://localhost:8099/api/productos/find/{id}
-- http://localhost:8099/api/products/save 
-- http://localhost:8099/api/products/delete/{id}
+- http://localhost:8099/api/productos/save 
+- http://localhost:8099/api/productos/delete/{id}
 - http://localhost:8099/api/stock/find/{id}
 
  Para el endpoint save  se usa el sgte json de plantilla:
@@ -84,8 +84,8 @@ El servidor Eureka estara en el http://localhost:8761/eureka
 Caso donde se acceda a cada uno de los microservicios se usara los siguientes:
 - http://localhost:8089/api/productos/all 
 - http://localhost:8089/api/productos/find/{id} 
-- http://localhost:8089/api/products/save 
-- http://localhost:8089/api/products/delete/{id} 
+- http://localhost:8089/api/productos/save 
+- http://localhost:8089/api/productos/delete/{id} 
 - http://localhost:8088/api/stock/find/{id}
 
  
